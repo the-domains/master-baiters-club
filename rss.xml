@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Master Baiters Club]]></title>
+        <description><![CDATA[Master Baiters Club]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 04 Apr 2016 15:17:25 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e849bb49-6e9a-4e1c-930e-9b23bf8283d6.jpg">]]></description>
+            <link>undefined141d9b34-b592-4c46-90de-6755221d50a8/index.html</link>
+            <guid isPermaLink="false">141d9b34-b592-4c46-90de-6755221d50a8</guid>
+            <pubDate>Mon, 04 Apr 2016 15:10:52 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
