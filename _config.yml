@@ -1,0 +1,28 @@
+name: Master Baiters Club
+favicon: null
+layout_spectrum: 0.7267560746986419
+typography_spectrum: 0.402730313828215
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.3356533581390977
+  lightness: 0.8367184237577021
+  saturation: 0.07637929590418935
+  rhythmicContrast: 0.18561625783331692
+purpose: []
